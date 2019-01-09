@@ -1,5 +1,4 @@
-# Tool
-工具类
+ 
 基于Opencover 分析的C#、.netMvc的百合测试分析，其分析结果为 xml格式，最终使用ReportGenerator 转换成可视化的 html
 
 
